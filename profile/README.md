@@ -10,8 +10,8 @@ Join us on our journey of building robust solutions that are easy to maintain an
 
 ### Started
 
-* [SQLAlchemy-SimpleCRUD](https://github.com/hexfrost/sqlalchemy-models-commands) - library with operation like (get, create, update, delete) for SQLAlchemy ORM
-* [Telegram System Message Remover](https://github.com/hexfrost/tg-delete-system-messages) - simple bot to remove system messages (like. join new member, member left group, etc) from chats in Telegram
+* [SimpleCRUD](https://github.com/hexfrost/sqlalchemy-models-commands](https://github.com/hexfrost/simplecrud) - library for async operations like (get, create, update, delete) for SQLAlchemy ORM
+* [ChatCleaner](https://github.com/hexfrost/tg-delete-system-messages](https://github.com/hexfrost/chat-cleaner) - simple bot to remove system messages (like. join new member, member left group, etc) from chats in Telegram
 
 ### Planned
 
